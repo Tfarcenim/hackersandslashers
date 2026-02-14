@@ -1,0 +1,8 @@
+{
+  "player_critical": {
+    "subtitle": "sounds.hackersandslashers.player_critical",
+    "sounds": [
+      "hackersandslashers:player_critical"
+    ]
+  }
+}

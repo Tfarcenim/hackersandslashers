@@ -1,0 +1,21 @@
+{
+  "key.hackersandslashers.parry": "Parry",
+
+  "key.categories.hackersandslashers": "Hackers 'n Slashers",
+
+  "effect.hackersandslashers.stun": "Stun",
+
+  "attribute.hackersandslashers.sneakiness": "Sneakiness",
+  "attribute.hackersandslashers.sneaky_attack_power": "Sneaky attack power",
+  "attribute.hackersandslashers.riposte_power": "Riposte power",
+  "attribute.hackersandslashers.headshot_power": "Headshot power",
+  "attribute.hackersandslashers.parry_recharge": "Parry recharge",
+  "attribute.hackersandslashers.bash_recharge": "Bash recharge",
+
+  "text.autoconfig.hackersandslashers.title": "Hackers 'n Slashers",
+  "text.autoconfig.hackersandslashers.option.clientConfig.stealtho_meter_style.@Tooltip": "Changes the default Stealth'o meter style.\n(change this if necessary to avoid crosshair compatibility issues)",
+  "text.autoconfig.hackersandslashers.option.clientConfig.stealtho_meter_style": "Stealth'o meter style",
+  "text.autoconfig.hackersandslashers.option.clientConfig.enable_critical_burst.@Tooltip": "Enables the critical hit camera burst effect.",
+  "text.autoconfig.hackersandslashers.option.clientConfig.enable_critical_burst": "Enable critical burst"
+
+}

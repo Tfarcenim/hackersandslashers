@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All rights reserved"
+
+[[mods]]
+modId="hackersandslashers"
+version="1.1.3"
+displayName="Hackers 'n Slashers"
+logoFile = "logo.png"
+authors="DnDats"
+description='''A mod that refactors Minecraft's Critical System, and adds new RPG mechanics!'''
+
+[[dependencies.hackersandslashers]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.hackersandslashers]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1, 1.22)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.hackersandslashers]]
+    modId="playeranimator"
+    type="required"
+    versionRange="[1.0.2,)"
+    reason="Hackers and Slashers uses custom animations, and only works with Player Animator!"
+    ordering="AFTER"
+    side="CLIENT"

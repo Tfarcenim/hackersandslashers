@@ -1,0 +1,15 @@
+{
+  "key.hackersandslashers.parry": "Aparar",
+
+  "key.categories.hackersandslashers": "Hackers 'n Slashers",
+
+  "effect.hackersandslashers.stun": "Atordoar",
+
+  "attribute.hackersandslashers.sneakiness": "Furtividade",
+  "attribute.hackersandslashers.sneaky_attack_power": "Poder de ataque furtivo",
+  "attribute.hackersandslashers.riposte_power": "Poder de ripostar",
+  "attribute.hackersandslashers.headshot_power": "Poder de headshot",
+  "attribute.hackersandslashers.parry_recharge": "Recarga de aparar",
+  "attribute.hackersandslashers.bash_recharge": "Recarga de empurrão"
+
+}
